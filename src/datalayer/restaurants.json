@@ -1,0 +1,12 @@
+[
+    {"name":"Thanos Restaurant1","item":"Margherita Pizza","price":275},
+    {"name":"Thors Bar Restaurant","item":"Double Cheese Margherita","price":175},
+    {"name":"SpiderMan Restaurant","item":"Farm House","price":260},
+    {"name":"AntMan Restaurant","item":"Peppy Paneer","price":145},
+    {"name":"Galaxy Restaurant","item":"Mexican Green Wave","price":200},
+    {"name":"Infinity Restaurant","item":"Deluxe Veggie","price":30},
+    {"name":"Thanos Restaurant2","item":"Veg Extravaganza","price":60},
+    {"name":"Strange Restaurant","item":"CHEESE N CORN","price":110},
+    {"name":"Thanos Restaurant3","item":"PANEER MAKHANI","price":35},
+  
+]
